@@ -3,8 +3,8 @@
 
 
 /**
- * advanced_binary_recursive - function that searches for a 
-value in a sorted array.
+ * advanced_binary_recursive - function that searches for a
+ * value in a sorted array.
  * @array: pointer to the array to search in
  * @left: left index
  * @right: right index
